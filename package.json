@@ -1,0 +1,14 @@
+{
+  "name": "myc-timer",
+  "version": "0.0.1",
+  "description": "计时器插件，参考timer.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "timer"
+  ],
+  "author": "walkoncloud",
+  "license": "ISC"
+}
